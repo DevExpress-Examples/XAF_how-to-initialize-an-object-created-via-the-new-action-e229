@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Title="HowToInitializeObjectCreatedViaNewAction" Logo="ExpressAppLogo">
+  <CreatableItems>
+    <CreatableItem IsNewNode="True" Caption="Task" ClassName="DevExpress.Persistent.BaseImpl.Task" />
+  </CreatableItems>
+  <NavigationItems>
+    <Item Id="Default" IsNewNode="True" Caption="Default">
+      <Item Id="Task" IsNewNode="True" ImageName="BO_Task" ViewId="Task_ListView" />
+    </Item>
+  </NavigationItems>
+</Application>
