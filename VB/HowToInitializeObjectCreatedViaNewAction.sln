@@ -1,0 +1,63 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToInitializeObjectCreatedViaNewAction.Module", "HowToInitializeObjectCreatedViaNewAction.Module\HowToInitializeObjectCreatedViaNewAction.Module.vbproj", "{A05FC053-9925-434F-B5EF-860780943F33}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToInitializeObjectCreatedViaNewAction.Module.Web", "HowToInitializeObjectCreatedViaNewAction.Module.Web\HowToInitializeObjectCreatedViaNewAction.Module.Web.vbproj", "{9EFBDF34-451B-4FB1-A1DD-9C28B60012BB}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToInitializeObjectCreatedViaNewAction.Web", "HowToInitializeObjectCreatedViaNewAction.Web\HowToInitializeObjectCreatedViaNewAction.Web.vbproj", "{D3F41093-93FB-4C2D-B149-FB64356198B8}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToInitializeObjectCreatedViaNewAction.Module.Win", "HowToInitializeObjectCreatedViaNewAction.Module.Win\HowToInitializeObjectCreatedViaNewAction.Module.Win.vbproj", "{3BA97507-A43B-4890-986F-BF1609FEAC20}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HowToInitializeObjectCreatedViaNewAction.Win", "HowToInitializeObjectCreatedViaNewAction.Win\HowToInitializeObjectCreatedViaNewAction.Win.vbproj", "{2966BA95-C942-4314-A2E5-3D6C9C857418}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05FC053-9925-434F-B5EF-860780943F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05FC053-9925-434F-B5EF-860780943F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05FC053-9925-434F-B5EF-860780943F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05FC053-9925-434F-B5EF-860780943F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EFBDF34-451B-4FB1-A1DD-9C28B60012BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFBDF34-451B-4FB1-A1DD-9C28B60012BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFBDF34-451B-4FB1-A1DD-9C28B60012BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFBDF34-451B-4FB1-A1DD-9C28B60012BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F41093-93FB-4C2D-B149-FB64356198B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F41093-93FB-4C2D-B149-FB64356198B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F41093-93FB-4C2D-B149-FB64356198B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F41093-93FB-4C2D-B149-FB64356198B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA97507-A43B-4890-986F-BF1609FEAC20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA97507-A43B-4890-986F-BF1609FEAC20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA97507-A43B-4890-986F-BF1609FEAC20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA97507-A43B-4890-986F-BF1609FEAC20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2966BA95-C942-4314-A2E5-3D6C9C857418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2966BA95-C942-4314-A2E5-3D6C9C857418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2966BA95-C942-4314-A2E5-3D6C9C857418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2966BA95-C942-4314-A2E5-3D6C9C857418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
