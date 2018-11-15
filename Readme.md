@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Model.DesignedDiffs.xafml](./CS/InitializeNewActionObject.Module/Model.DesignedDiffs.xafml)
+* **[MyController.cs](./CS/InitializeNewActionObject.Module/MyController.cs) (VB: [MyController.vb](./VB/InitializeNewActionObject.Module/MyController.vb))**
+* [WebApplication.cs](./CS/InitializeNewActionObject.Web/ApplicationCode/WebApplication.cs) (VB: [WebApplication.vb](./VB/InitializeNewActionObject.Web/ApplicationCode/WebApplication.vb))
+<!-- default file list end -->
 # How to Initialize an Object Created via the New Action
 
 
