@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyController.cs](./CS/HowToInitializeObjectCreatedViaNewAction.Module/MyController.cs) (VB: [MyController.vb](./VB/HowToInitializeObjectCreatedViaNewAction.Module/MyController.vb))
+<!-- default file list end -->
 # How to Initialize an Object Created via the New Action
 
 
